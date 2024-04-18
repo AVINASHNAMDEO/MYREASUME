@@ -1,0 +1,18 @@
+.BUTT1{
+   padding:20px;
+   width:130px;
+   background-color: rgb(3, 3, 18);
+   color:white;
+   border-end-end-radius: 15px;
+   border-start-start-radius: 15px;
+   border: 2px solid rgb(19, 82, 241);
+   box-shadow:0 0 0.9rem rgb(131, 25, 201);
+}
+
+.BUTT1:hover{
+    padding:25px;
+    width:150px;
+    background-color: rgb(23, 23, 244);
+    color:black;
+    
+}

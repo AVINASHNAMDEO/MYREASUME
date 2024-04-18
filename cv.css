@@ -1,0 +1,181 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:	#081c1a;
+}
+
+.nav-bar{
+    height:100px;
+    width:100%;
+    border:1px solid black;
+    background-color: #260614;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+
+.title{
+    height:50px;
+    width:200px;
+    border:1px solid rgb(95, 50, 97);
+    box-shadow: 0 0 0.2rem rgb(131, 25, 201);
+    margin-top: 25px;
+    background-color:black;
+    COLOR:WHITE;
+    font-family:Algerian;
+    margin-left: 10px;
+}
+.msg{
+    height:50px;
+    width:600px;
+    align-items: center;
+    margin-top: 35px;
+    text-align: center;
+    color:beige
+    
+}
+#TIT{
+    text-align: center;
+    font-size:40px;
+}
+.title:HOVER{
+    BORDER:2PX SOLID TRANSPARENT;
+    border: 2PX SOLID rgb(51, 7, 7);
+}
+.date{
+    height:80px;
+    width:120px;
+    border: 2px solid black;
+   margin-top: 3PX;
+   margin-right: 1px;
+    background-color: black;
+    color:red;
+   
+}
+.date:hover{
+    border: 2px solid rgb(5, 2, 19);
+    border-radius: 5px;
+}
+.HERO-SEC{
+    HEIGHT:120VH;
+    display: flex;
+    justify-content:flex-start;
+    border: 1PX SOLID BLACK;
+
+}
+.menu{
+    height:500px;
+    width:200px;
+    border:1px solid black;
+    margin-top: 1px;
+}
+/* .BUTT{
+    HEIGHT:100PX;
+    WIDTH:200PX;
+    background-color:#ec952b;
+    background-color:#0000CD;
+    COLOR:WHITE;
+ cursor: pointer;
+}
+.BUTT:hover{
+    BORDER:2PX SOLID TRANSPARENT;
+    border: 2PX SOLID rgb(6, 6, 6);
+    color:#ec952b
+} */
+.BUTT{
+    padding:50px;
+    width:200px;
+    background-color: rgb(3, 3, 18);
+    color:white;
+    border-end-end-radius: 15px;
+    border-start-start-radius: 15px;
+    border: 2px solid rgb(19, 82, 241);
+    box-shadow:0 0 0.9rem rgb(131, 25, 201);
+ }
+ 
+ .BUTT:hover{
+     padding:60px;
+     width:230px;
+     background-color: rgb(23, 23, 244);
+     color:black;
+     
+ }
+#1{
+    margin-top: 1PX;
+}
+.PIC{
+    HEIGHT:100PX;
+    WIDTH:80pxPX;
+    margin-left: 10PX;
+    margin-right: 5PX;
+    margin-top: 5px;
+   
+    border-radius: 5PX;
+}
+.IMG:HOVER{
+    border: 2PX SOLID white;
+}
+
+.GENINFO{
+    HEIGHT:500PX;
+    WIDTH:900PX;
+   margin-top: 2px;
+    margin-right: 50px;
+    margin-left: 35PX;
+    BORDER:1PX SOLID BLACK;
+    BORDER:2PX SOLID TRANSPARENT;
+    background-color: rgb(55, 60, 17);
+    COLOR:WHITE;
+   
+}
+.GENINFO:HOVER{
+    BORDER:2PX SOLID rgb(84, 84, 72);
+    border-radius: 5PX;
+    cursor: pointer;
+}
+.GEN{
+    height: 50px;
+    width:100%px;
+    margin-left: 40px;
+    align-items: center;
+    margin-top: 20px;
+    color: aqua;
+    font-family:Arial Black;
+}
+#STL{
+    border-bottom: 3px dotted aqua;
+    text-decoration: none;
+    text-align: center;
+}
+stl2{
+    font-family: Arial Rounded MT Bold;
+}
+.info{
+    height:500px;
+    width:700px;
+    margin-right: 2px;
+}
+/* .BUTT1{
+    HEIGHT:100PX;
+    WIDTH:150PX;
+    background-color:#ec952b;
+    background-color:#99190b;
+    COLOR:rgb(28, 233, 69);
+ cursor: pointer;
+ margin-top:2px;
+ bor
+}
+.BUTT1:hover{
+    BORDER:2PX SOLID TRANSPARENT;
+    border: 2PX SOLID rgb(6, 6, 6);
+    
+} */
+
+.MSG1{
+   
+    text-decoration: none;
+}
